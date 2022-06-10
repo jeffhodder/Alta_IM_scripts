@@ -40,7 +40,7 @@ file_location = str('\\\\altfps\\arcadiagroup$\Midoffice\IM Attachments\Houston 
 #     quit()
 
 user = 'j.adjaho@altatrading.com'
-password = 'table40!longerchair'
+password = 'tab'
 imap_url = 'imap-mail.outlook.com'
 attachment_dir = '\\\\altfps\\arcadiagroup$\Midoffice\IM Attachments\Houston IM Files'
 

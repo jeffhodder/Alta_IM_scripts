@@ -2,7 +2,7 @@ import imaplib, email
 import os
 
 user = 'j.adjaho@altatrading.com'
-password = 'table40!longerchair'
+password = 'tab'
 imap_url = 'imap-mail.outlook.com'
 attachment_dir = '\\\\altfps\\arcadiagroup$\Midoffice\Tala IM'
 
