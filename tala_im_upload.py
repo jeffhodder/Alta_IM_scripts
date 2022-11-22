@@ -21,7 +21,7 @@ else:
     tone_date = str(raw_date[2:4] + raw_date[0:2])
 
 # uncomment line below for retrospective date
-# tone_date = '0703'
+# tone_date = '1210'
 
 file_location = str('\\\\altfps\\arcadiagroup$\Midoffice\Tala IM\\' + tone_date + 'F.zip')
 

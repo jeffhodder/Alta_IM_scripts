@@ -23,7 +23,7 @@ else:
     today_date = str(raw_date[2:4] + raw_date[0:2])
 
 # uncomment line below for retrospective date
-# today_date = '0103'
+# today_date = '1210'
 
 file_location = str('\\\\altfps\\arcadiagroup$\Midoffice\IM Attachments\\' + today_date + 'F.zip')
 

@@ -2,7 +2,7 @@ import imaplib, email
 import os
 
 user = 'j.adjaho@altatrading.com'
-password = 'tab'
+password = 'table20!longerchair'
 imap_url = 'imap-mail.outlook.com'
 attachment_dir = '\\\\altfps\\arcadiagroup$\Midoffice\IM Attachments'
 

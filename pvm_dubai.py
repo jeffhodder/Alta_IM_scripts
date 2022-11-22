@@ -9,7 +9,7 @@ from openpyxl import load_workbook
 import pyodbc
 
 user = 'j.adjaho@altatrading.com'
-password = 'tab'
+password = 'table40!longerchair'
 imap_url = 'imap-mail.outlook.com'
 attachment_dir = '\\\\altfps\\arcadiagroup$\Midoffice\PVM Dubai'
 
